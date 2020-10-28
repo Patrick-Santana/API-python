@@ -1,4 +1,4 @@
-# This is a sample Python script.
+#  Python script.
 
 import requests
 def main():
